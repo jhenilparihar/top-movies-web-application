@@ -2,6 +2,11 @@
 
 A web application of top movies in flask with database and search feature that searches **movies** and get and strore the data of movies in database
 
+**How to Run this application?**
+- First you have to install flask and other python packages in order to run this program.
+- Then you have to run the program this way this application will be hosted on you local host.
+- A link will generated on output window which you have to paste in your browser.
+
 #### Add a movie
 - At the end of the list that is at the html template there is **add button**
 - After click on that add button you will be redirect to page where you have to enter the movies name that you want to add.
@@ -12,7 +17,6 @@ A web application of top movies in flask with database and search feature that s
 - After your rating and review you will be redirect to homepage where your movie will in the list with automatic ranking by program.
 - When you hover on that movie card and you can see detail of that movie.
 
-Below is the Example of i adding Joker movies in my top movies list application.
 
 **Update**
 You can also update your rating and review if you wish to change.
@@ -21,7 +25,10 @@ You can also update your rating and review if you wish to change.
 - you will be redirected to page where you have to enter new rating and your review for the movie and press enter.
 - after filling out new details for the movie you will be to redirected to home page where you can see your movies rating review is changed and ranking will also changed accoring to your ratings
 
-You can also delete the movie from the list by delete button 
+**Delete**
+You can also delete the movie from the list.
+- For Delete any movie hover on the movie card you want to delete
+- click on delete button and this will automatically delete movie from the list and database
 
 
 

@@ -4,3 +4,4 @@ WTForms~=3.0.1
 Flask_Bootstrap~=3.3.7.1
 Flask_SQLAlchemy~=2.5.1
 Flask_WTF~=1.0.1
+MarkupSafe~=2.0.1
